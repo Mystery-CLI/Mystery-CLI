@@ -40,12 +40,12 @@
 ## Activity graphs
 [![Mystery-CLI's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mystery-CLI&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mystery-CLI&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo-->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=Mystery-CLI&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
