@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mozilla+Headline&weight=500&size=55&center=true&vCenter=true&pause=1000&width=800&height=100&lines=Front-End+Developer+;Smart+Contract+Engineer;Building+seamless+UI........;and+decentralized+magic%E2%9A%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mozilla+Headline&weight=500&size=55&center=true&vCenter=true&pause=1000&width=800&height=100&lines=Back-End+Developer+;Smart+Contract+Engineer;Building+seamless+UI........;and+decentralized+magic%E2%9A%A1" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -12,9 +12,7 @@
   <a href ="https://wa.me/qr/PNNCQAOB4GIII1" img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
    <a href="https://www.facebook.com/MperoAce" img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
 
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
 
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 # 💻 Tech Stack:
