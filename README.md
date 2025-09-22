@@ -9,13 +9,13 @@
 
 ---
 
-<!-- PROFILE IMAGE 
+<!-- PROFILE IMAGE -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="Profile Pic" width="200" style="border-radius:50%; border:4px solid #00F7FF;" />
+  <img src="[https://avatars.githubusercontent.com/u/9919?s=280&v=4](https://avatars.githubusercontent.com/u/233705094?s=400&u=c2bf2327d0419d305ff6e04eec879e74d3d58edc&v=4)" alt="Profile Pic" width="200" style="border-radius:50%; border:4px solid #00F7FF;" />
 </p>
 
 ---
--->
+
 
 ## 🌐 Connect With Me
 <p align="center">
