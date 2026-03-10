@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <strong>Hey there! 👋 I'm Chibueze — crafting high-performance backends, secure smart contracts, and beautiful decentralized experiences.</strong>
+  <strong>Hey there! 👋 I'm Mystery-CLI — crafting high-performance backends, secure smart contracts, and beautiful decentralized experiences.</strong>
 </p>
 
 <!-- CONNECT -->
